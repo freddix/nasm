@@ -1,11 +1,11 @@
 Summary:	Nasm is a free assembler for the 80x86 series of microprocessors
 Name:		nasm
-Version:	2.10.03
-Release:	2
+Version:	2.10.07
+Release:	1
 License:	LGPL v2.1
 Group:		Development/Tools
 Source0:	http://www.nasm.us/pub/nasm/releasebuilds/%{version}/%{name}-%{version}.tar.bz2
-# Source0-md5:	22d2fe2a78db6a902e7ce65f4e373277
+# Source0-md5:	af1cd6669f5e98148cd5ec42dee90f19
 URL:		http://nasm.sourceforge.net/
 BuildRequires:	perl-base
 BuildRequires:	texinfo
